@@ -2,6 +2,8 @@
 <h3 align="center">A passionate software developer from Greece</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="be76f2c5-2f77-4b89-ac61-5438cc683698" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - 🌱 I’m currently learning **Photoshop,C++,Python,**
 
 - 📫 How to reach me **harrispapadakis@hotmail.com**
