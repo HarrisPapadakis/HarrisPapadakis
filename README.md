@@ -3,7 +3,7 @@
 
 https://www.credly.com/earner/earned
 
-- 🌱 I’m currently learning **Photoshop,C++,Python,**
+- 🌱 I’m currently learning **Data Analytics,Swift,Python,**
 
 - 📫 How to reach me **harrispapadakis@hotmail.com**
 <div align="center">
