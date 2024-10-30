@@ -1,9 +1,3 @@
-<h1 align="center">Hi 👋, I'm HarrisPapadakis</h1>
-<h3 align="center">A passionate software developer from Greece</h3>
-
-https://www.credly.com/earner/earned
-
-
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="182" class="">
     <defs>
         <style/>
