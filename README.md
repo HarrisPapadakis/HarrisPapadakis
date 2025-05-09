@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrispapadakis" alt="harrispapadakis" /></a> </p>
 
-- 🌱 I’m currently learning **PYTHON,PHP**
+- 🌱 I’m currently learning **Python,Java,Wordpress,**
 
 - 📫 How to reach me **harrispapadakis@hotmail.com**
 
