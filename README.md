@@ -2,6 +2,8 @@
 <h3 align="center">A passionate software developer from Greece</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrispapadakis" alt="harrispapadakis" /></a> </p>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charalampos-papadakis-aa545b299/)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harrispapadakis@hotmail.com) 
